@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganidu</h1>
-<h3 align="center">Undergraduate Bachelor's ICT (Hons)</br> Computer Software Engineering</br> Web Developer Mobile</br> App Developer</h3>
+<h3 align="center">Undergraduate Bachelor's ICT (Hons)</h3>
+<h3 >Computer Software Engineering</br> Web Developer Mobile</br> App Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
