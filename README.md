@@ -13,5 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganidu2413&show_icons=true&locale=en&layout=compact" alt="ganidu2413" /></p>
 
-[![An image of @ganidu2413's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ganidu2413)](https://holopin.io/@ganidu2413)
 
